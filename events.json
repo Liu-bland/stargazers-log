@@ -1,0 +1,26 @@
+[
+  {
+    "name": "cli/cli",
+    "description": "GitHub's official command line tool.",
+    "url": "https://github.com/cli/cli",
+    "starred_at": "2026-09-28"
+  },
+  {
+    "name": "encode/httpx",
+    "description": "A next-generation HTTP client for Python.",
+    "url": "https://github.com/encode/httpx",
+    "starred_at": "2026-09-19"
+  },
+  {
+    "name": "astral-sh/ruff",
+    "description": "An extremely fast Python linter and formatter.",
+    "url": "https://github.com/astral-sh/ruff",
+    "starred_at": "2026-09-12"
+  },
+  {
+    "name": "sindresorhus/ky",
+    "description": "Tiny and elegant HTTP client based on the Fetch API.",
+    "url": "https://github.com/sindresorhus/ky",
+    "starred_at": "2026-09-04"
+  }
+]
